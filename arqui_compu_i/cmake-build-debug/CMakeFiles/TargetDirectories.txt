@@ -1,0 +1,3 @@
+/Users/ignacioachaval/CLionProjects/arqui_compu_i/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ignacioachaval/CLionProjects/arqui_compu_i/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ignacioachaval/CLionProjects/arqui_compu_i/cmake-build-debug/CMakeFiles/arqui_compu_i.dir

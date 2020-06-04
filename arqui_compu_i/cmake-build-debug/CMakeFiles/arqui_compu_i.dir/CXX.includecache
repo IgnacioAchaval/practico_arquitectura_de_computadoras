@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ignacioachaval/CLionProjects/arqui_compu_i/conio.h
+conio.h
+-
+stdio.h
+-
+unistd.h
+-
+fcntl.h
+-
+termios.h
+-
+
+/Users/ignacioachaval/CLionProjects/arqui_compu_i/main.cpp
+iostream
+-
+conio.h
+/Users/ignacioachaval/CLionProjects/arqui_compu_i/conio.h
+unistd.h
+-
+
